@@ -1,0 +1,16 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 2, 2018, 4:13:29 PM
+    Author     : Aleksa Dencic
+*/
+
+body {
+   background-image: url("../images/novkabel-logo.png");
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center; 
+}

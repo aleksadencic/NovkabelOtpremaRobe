@@ -1,0 +1,14 @@
+com\aleksa\controllers\OtpremnicaController.class
+com\aleksa\util\IOperation.class
+com\aleksa\domain\Spediter.class
+com\aleksa\controllers\StavkaOtpremniceController.class
+com\aleksa\db\DBBroker.class
+com\aleksa\domain\Magacin.class
+com\aleksa\domain\Otpremnica.class
+com\aleksa\domain\Proizvod.class
+com\aleksa\domain\StavkaOtpremnice.class
+com\aleksa\domain\Model.class
+com\aleksa\controllers\VoziloController.class
+com\aleksa\domain\Nalog.class
+com\aleksa\domain\Vozilo.class
+com\aleksa\controllers\IndexController.class
